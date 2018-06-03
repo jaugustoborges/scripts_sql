@@ -1,1 +1,1 @@
-# scrpts_sql
+# scripts_sql
